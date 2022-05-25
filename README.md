@@ -1,7 +1,7 @@
 ### Olá! Sou a Francielle Rodrigues
 <!--
 - 🔭 I’m currently working on ... -->
-- 🌱 Estudando: Flask
+- 🌱 Estudando: Oat++
 - 📫 Contate-me no e-mail: franciellerod.lindoso@gmail.com
 - 😄 Pronomes: ela/dela
 
