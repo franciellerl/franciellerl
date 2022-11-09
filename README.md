@@ -2,7 +2,6 @@
 <!--
 - 🔭 I’m currently working on ... -->
 - 📫 Contate-me no e-mail: franciellerod.lindoso@gmail.com
-- 😄 Pronomes: ela/dela
 
 <div>
      <a href="https://github.com/franciellerl">
