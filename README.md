@@ -1,7 +1,7 @@
 ### Olá! Sou a Francielle Rodrigues!
 <!--
 - 🔭 I’m currently working on ... -->
-- 📫 Contate-me no e-mail: franciellerod.lindoso@gmail.com
+- 📫 Contato no e-mail: franciellerod.lindoso@gmail.com
 
 <div>
      <a href="https://github.com/franciellerl">
