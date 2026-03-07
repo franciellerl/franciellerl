@@ -14,11 +14,6 @@
 
 ## 
 <div align="center">
-     <a href="https://github.com/franciellerl">
-     <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciellerl&layout=compact&lang_count=16&&theme=merko"/>
-</div> 
-
-<div align="center">
      <a href="https://linkedin.com/in/franciellerl" target="blank">
      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
      </a>
