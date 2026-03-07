@@ -1,5 +1,5 @@
 ### Olá! Sou a Francielle Lindoso!  
-- 🌱 Atualmente, sou estudante de Ciência da Computação na UFMA  
+- 🌱 Cientista de dados focada em análise, manipulação de dados e desenvolvimento de soluções orientadas por dados.  
 - 📫 Para contato, estou no e-mail: franciellerod.lindoso@gmail.com  
 
 ##
