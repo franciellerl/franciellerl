@@ -1,6 +1,6 @@
 ### Olá! Sou a Francielle Lindoso!  
 - 🌱 Cientista de dados focada em análise, manipulação de dados e desenvolvimento de soluções orientadas por dados.  
-- 📫 Para contato, estou no e-mail: franciellerod.lindoso@gmail.com  
+- 📫 Para contato, estou no e-mail: franciellerlindoso@gmail.com  
 
 ##
 <div align="center">
