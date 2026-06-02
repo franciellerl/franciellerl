@@ -1,25 +1,44 @@
-### Olá! Sou a Francielle Lindoso!  
-- 🌱 Cientista de dados focada em análise, manipulação de dados e desenvolvimento de soluções orientadas por dados.  
-- 📫 Para contato, estou no e-mail: franciellerlindoso@gmail.com  
+[![English](https://img.shields.io/badge/lang-EN-green)](README.md)
+[![Português](https://img.shields.io/badge/lang-PT--BR-white)](README.br.md)
 
 ##
+
 <div align="center">
-     <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-     <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-     <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-     <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>   
-     <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  
+<b> Hiii! I'm Francielle R. L.!  🌱 </b>
+
+<br>
+
+<div align="center">
+Computer Science graduate passionate about data, technology, and problem-solving. I enjoy turning data into meaningful insights through analysis, automation, and the development of solutions that create value and support better decision-making. Want to get in touch? Feel free to send me an email at franciellerlindoso@gmail.com  
 </div>
 
-## 
+##
+
 <div align="center">
-     <a href="https://linkedin.com/in/franciellerl" target="blank">
-     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-     </a>
-     <a href="https://github.com/franciellerl" target="blank">
-     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  />
-     </a>  
-</div>  
+  
+<b> Favorite Languages and Tools </b>
 
+Python • SQL • Data Analysis • Business Intelligence
 
+[![My Skills](https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,docker,flask,tensorflow,sklearn,git,github,linux,js)](https://skillicons.dev)
+
+</div>
+
+##
+
+<div align="center">
+
+<b> Where to Find Me </b>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franciellerl)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-1B4332?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franciellerl)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciellerlindoso@gmail.com)
+
+<br>
+
+![snake animation](https://github.com/franciellerl/franciellerl/blob/output/github-contribution-grid-snake2.svg)
+
+</div>
