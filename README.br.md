@@ -31,11 +31,13 @@ Python • SQL • Data Analysis • Business Intelligence
 
 <b> Onde Me Encontrar </b>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franciellerl)
+[![Portfólio](https://img.shields.io/badge/Portfólio-1B4332?style=for-the-badge)](https://franciellerl.github.io)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1B4332?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franciellerl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge)](https://linkedin.com/in/franciellerl)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciellerlindoso@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1B4332?style=for-the-badge)](https://github.com/franciellerl)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge)](mailto:franciellerlindoso@gmail.com)
 
 <br>
 
