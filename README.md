@@ -22,7 +22,7 @@ Computer Science graduate passionate about data, technology, and problem-solving
 
 Python • SQL • Data Analysis • Business Intelligence
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,docker,flask,tensorflow,sklearn,git,github,linux,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,docker,flask,tensorflow,sklearn,git,github,linux,js)](https://github.com/franciellerl?tab=repositories)
 
 </div>
 
