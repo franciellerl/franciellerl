@@ -11,6 +11,7 @@
 
 <div align="center">
 Computer Science graduate passionate about data, technology, and problem-solving. I enjoy turning data into meaningful insights through analysis, automation, and the development of solutions that create value and support better decision-making. Want to get in touch? Feel free to send me an email at franciellerlindoso@gmail.com  
+
 </div>
 
 ##
@@ -31,11 +32,13 @@ Python • SQL • Data Analysis • Business Intelligence
 
 <b> Where to Find Me </b>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franciellerl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B4332?style=for-the-badge)](https://franciellerl.github.io)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1B4332?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franciellerl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge)](https://linkedin.com/in/franciellerl)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciellerlindoso@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1B4332?style=for-the-badge)](https://github.com/franciellerl)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge)](mailto:franciellerlindoso@gmail.com)
 
 <br>
 
